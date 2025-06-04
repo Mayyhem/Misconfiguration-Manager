@@ -22,7 +22,7 @@
 ![MM-cropped](https://github.com/subat0mik/Misconfiguration-Manager/assets/41414134/0c88e861-4b13-4722-a8b1-7db53f782ee8)
 
 # Remediation Quick Start
-1. Review the list of known and documented [Attack Techniques](./attack-techniques/_attack-techniques-list.md) and corresponding [Defense Techniques](./defense-techniques/_defense-techniques-list.md) to identify issues that may be present in your environment and how to remediate them
+1. Review the list of known and documented [Attack Techniques](./attack-techniques/) and corresponding [Defense Techniques](./defense-techniques/) to identify issues that may be present in your environment and how to remediate them
     - Refer to this [introduction to the project](https://www.youtube.com/watch?v=GhT6nPes1h0&t=12s&pp=ygUYbWlzY29uZmlndXJhdGlvbiBtYW5hZ2Vy)
 2. Run [MisconfigurationManager.ps1](https://github.com/subat0mik/Misconfiguration-Manager/blob/main/MisconfigurationManager.ps1)
     - Refer to this [walkthrough](https://posts.specterops.io/rooting-out-risky-sccm-configs-with-misconfiguration-manager-0beecaab1af3)
